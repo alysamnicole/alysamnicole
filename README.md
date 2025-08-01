@@ -3,7 +3,7 @@
 
 As a graduate student at Florida Institute of Technology pursuing a Master of Science in Computer Information Systems, I have a strong interest in data analytics, business intelligence, and machine learning for business solutions. I have hands-on experience with tools like Python, Java, SQL, Tableau, and Power BI, and I enjoy transforming complex data into meaningful insights that support strategic decisions. My background includes customer-facing roles and technical [projects](https://public.tableau.com/app/profile/alysa.miller/vizzes), such as developing dashboards and analyzing real-world datasets, which have helped me build both strong analytical and communication skills. I am passionate about intersecting data with human impact and am actively seeking opportunities where I can grow as a data analyst and contribute to data-driven teams! 😊
 
-<b>Languages and Tools:</b>
+<b>Languages and Tools I Use:</b>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img alt="Java" src="https://img.shields.io/badge/Java-yellow?style=for-the-badge" />
