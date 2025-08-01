@@ -1,17 +1,14 @@
 ## Hi, I'm Alysa 👩🏽‍💻👋🏽
 <img src= "Banner.png">
-<!--
-**alysamnicole/alysamnicole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+As a graduate student at Florida Institute of Technology pursuing a Master of Science in Computer Information Systems, I have a strong interest in data analytics, business intelligence, and machine learning for business solutions. I have hands-on experience with tools like Python, Java, SQL, Tableau, and Power BI, and I enjoy transforming complex data into meaningful insights that support strategic decisions. My background includes customer-facing roles and technical [projects](https://public.tableau.com/app/profile/alysa.miller/vizzes), such as developing dashboards and analyzing real-world datasets, which have helped me build both strong analytical and communication skills. I am passionate about intersecting data with human impact and am actively seeking opportunities where I can grow as a data analyst and contribute to data-driven teams! 😊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I am a graduate student at Florida Institute of Technology who is pursuing a Master of Science in Computer Information Systems and passionate about intersecting data with human impact. I have a strong interest in data analytics, business intelligence, and machine learning for business solutions. I have hands-on experience with tools like Python, Java, SQL, Tableau, and Power BI, and I enjoy transforming complex data into meaningful insights that support strategic decisions. My background includes customer-facing roles and technical projects, such as developing dashboards and analyzing real-world datasets, which have helped me build both strong analytical and communication skills. I'm actively seeking opportunities where I can grow as a data analyst and contribute to data-driven teams! 😊
+<b>Languages and Tools:</b>
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img alt="PostGreSQL" src="https://img.shields.io/badge/PostgreSQL-green?style=for-the-badge" />
+  <img alt="My SQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="SQLite" src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img alt="NetBeans" src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white />
+</p>
