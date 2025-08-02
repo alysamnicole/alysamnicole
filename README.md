@@ -30,8 +30,49 @@ As a graduate student at Florida Institute of Technology pursuing a Master of Sc
   <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
 </p>
 
-<b>My Latest Projects:</b>
+<p><b>My Latest Projects:</b></p>
 
+[Public Health Equity Dashboard](https://public.tableau.com/app/profile/alysa.miller/viz/PublicHealthEquityDashboard/PublicHealthEquityDashboard)
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+[Library Statistics Dashboard](https://public.tableau.com/app/profile/alysa.miller/viz/OsceolaCountyLibrarySystem2024PhysicalCollectionCirculationStatisticsDashboard/Dashboard)
+<p align="left">
+  <a href="https://public.tableau.com/app/profile/alysa.miller/vizzes"><img src="Public Health Equity Dashboard.png" height=350px></a>
+  <a href="https://public.tableau.com/app/profile/alysa.miller/vizzes"><img src="Dashboard (1).png" height=350px hspace="60"></a>
+</p>
+
+&nbsp;
 <p align="center">
     <b>Contact Me / View My Projects:</b>
 </p>
