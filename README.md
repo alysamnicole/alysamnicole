@@ -1,11 +1,12 @@
 ## Hi, I'm Alysa 👩🏽‍💻👋🏽
 <img src= "Banner.png">
-<p align="center">
-  <a href="mailto:alysamill1@gmail.com"><img src="gmail.png" height=30px hspace="10"></a>     
-  <a href="https://www.linkedin.com/in/alysa-miller-professional/"><img src="linkedin.png" height=30px hspace="10"></a>
-  <a href="https://github.com/alysamnicole"><img src="github.png" height=30px hspace="10"></a>
-  <a href="https://public.tableau.com/app/profile/alysa.miller/vizzes"><img src="svgviewer-png-output.png" height=30px hspace="10"></a>
-</p>
+
+[![Follow @alysamnicole](https://img.shields.io/github/followers/alysamnicole?label=Follow&style=social)](https://github.com/alysamnicole)
+&nbsp;
+[![Star](https://img.shields.io/github/stars/alysamnicole/alysamnicole?style=social)](https://github.com/alysamnicole/alysamnicole/stargazers)
+&nbsp;
+[![Discuss](https://img.shields.io/badge/Discuss-Join%20the%20conversation-blue?logo=github)](https://github.com/alysamnicole/alysamnicole/discussions)
+
 
 As a graduate student at Florida Institute of Technology pursuing a Master of Science in Computer Information Systems, I have a strong interest in data analytics, business intelligence, and machine learning for business solutions. I have hands-on experience with tools like Python, Java, SQL, Tableau, and Power BI, and I enjoy transforming complex data into meaningful insights that support strategic decisions. My background includes customer-facing roles and technical [projects](https://public.tableau.com/app/profile/alysa.miller/vizzes), such as developing dashboards and analyzing real-world datasets, which have helped me build both strong analytical and communication skills. I am passionate about intersecting data with human impact and am actively seeking opportunities where I can grow as a data analyst and contribute to data-driven teams! 😊
 
@@ -29,3 +30,15 @@ As a graduate student at Florida Institute of Technology pursuing a Master of Sc
   <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
 </p>
 
+<b>My Latest Projects:</b>
+
+<p align="center">
+    <b>Contact Me / View My Projects:</b>
+</p>
+
+<p align="center">
+  <a href="mailto:alysamill1@gmail.com"><img src="gmail.png" height=30px hspace="10"></a>     
+  <a href="https://www.linkedin.com/in/alysa-miller-professional/"><img src="linkedin.png" height=30px hspace="10"></a>
+  <a href="https://github.com/alysamnicole"><img src="github.png" height=30px hspace="10"></a>
+  <a href="https://public.tableau.com/app/profile/alysa.miller/vizzes"><img src="svgviewer-png-output.png" height=30px hspace="10"></a>
+</p>
