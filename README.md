@@ -1,5 +1,9 @@
 ## Hi, I'm Alysa 👩🏽‍💻👋🏽
 <img src= "Banner.png">
+<p align="center">
+  <a href=[Link](mailto:alysamill1@gmail.com) "Hover Text"><img src= "gmail.png" height=30px hspace="10"></a>     
+  <a href="https://www.linkedin.com/in/alysa-miller-professional"/"><img src= "linkedin.png" height=30px hspace="10"></a>
+</p>
 
 As a graduate student at Florida Institute of Technology pursuing a Master of Science in Computer Information Systems, I have a strong interest in data analytics, business intelligence, and machine learning for business solutions. I have hands-on experience with tools like Python, Java, SQL, Tableau, and Power BI, and I enjoy transforming complex data into meaningful insights that support strategic decisions. My background includes customer-facing roles and technical [projects](https://public.tableau.com/app/profile/alysa.miller/vizzes), such as developing dashboards and analyzing real-world datasets, which have helped me build both strong analytical and communication skills. I am passionate about intersecting data with human impact and am actively seeking opportunities where I can grow as a data analyst and contribute to data-driven teams! 😊
 
