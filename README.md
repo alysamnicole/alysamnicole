@@ -74,6 +74,6 @@ As a graduate student at Florida Institute of Technology pursuing a Master of Sc
 <p align="center">
   <a href="mailto:alysamill1@gmail.com"><img src="gmail.png" height=30px hspace="10"></a>     
   <a href="https://www.linkedin.com/in/alysa-miller-professional/"><img src="linkedin.png" height=30px hspace="10"></a>
-  <a href="https://github.com/alysamnicole](https://alysamnicole.github.io"><img src="github.png" height=30px hspace="10"></a>
+  <a href="https://alysamnicole.github.io"><img src="github.png" height=30px hspace="10"></a>
   <a href="https://public.tableau.com/app/profile/alysa.miller/vizzes"><img src="svgviewer-png-output.png" height=30px hspace="10"></a>
 </p>
