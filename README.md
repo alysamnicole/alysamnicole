@@ -16,7 +16,7 @@ As a graduate student at Florida Institute of Technology pursuing a Master of Sc
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-yellow?style=for-the-badge" />
   <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
+  <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" />
   <img alt="PostGreSQL" src="https://img.shields.io/badge/PostgreSQL-green?style=for-the-badge" />
