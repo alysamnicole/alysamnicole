@@ -64,9 +64,9 @@ As a graduate student at Florida Institute of Technology pursuing a Master of Sc
 &nbsp;
 [Library Statistics Dashboard](https://public.tableau.com/app/profile/alysa.miller/viz/OsceolaCountyLibrarySystem2024PhysicalCollectionCirculationStatisticsDashboard/Dashboard)
 <p align="left">
-  <a href="https://public.tableau.com/app/profile/alysa.miller/vizzes"><img src="Public Health Equity Dashboard.png" height=300px></a>
+  <a href="https://public.tableau.com/app/profile/alysa.miller/viz/PublicHealthEquityDashboard/PublicHealthEquityDashboard" target="_blank" rel="noopener noreferrer"><img src="Public Health Equity Dashboard.png" height=300px></a>
   &nbsp;
-  <a href="https://public.tableau.com/app/profile/alysa.miller/vizzes"><img src="Dashboard (1).png" height=300px></a>
+  <a href="https://public.tableau.com/app/profile/alysa.miller/viz/OsceolaCountyLibrarySystem2024PhysicalCollectionCirculationStatisticsDashboard/Dashboard" target="_blank" rel="noopener noreferrer"><img src="Dashboard (1).png" height=300px></a>
 </p>
 
 &nbsp;
