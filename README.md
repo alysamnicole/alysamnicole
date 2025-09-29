@@ -68,6 +68,11 @@ As a graduate student at Florida Institute of Technology pursuing a Master of Sc
   &nbsp;
   <a href="https://public.tableau.com/app/profile/alysa.miller/viz/OsceolaCountyLibrarySystem2024PhysicalCollectionCirculationStatisticsDashboard/Dashboard" target="_blank" rel="noopener noreferrer"><img src="Dashboard (1).png" height=300px></a>
   &nbsp;
+</p>
+
+[Weather Station Data Dashboard - Hurricane Michael](https://public.tableau.com/app/profile/alysa.miller/viz/OsceolaCountyLibrarySystem2024PhysicalCollectionCirculationStatisticsDashboard/Dashboard)
+
+<p>
   <a href="https://app.powerbi.com/links/U7xeuEjVGN?ctid=bb932f15-ef38-42ba-91fc-f3c59d5dd1f1&pbi_source=linkShare" target="_blank" rel="noopener noreferrer"><img src="hurricanedashboard.png" height=300px></a>
 </p>
 
